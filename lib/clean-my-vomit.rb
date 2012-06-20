@@ -12,7 +12,7 @@ module CleanMyVomit
             polish(key, depth + 3)
             puts " "*depth + " }"
           elsif value
-            puts " "*depth + key + " => #{value}"
+            puts " "*depth + key + " => #{value.to_s}"
           else
             puts " "*depth + key.to_s + ""
           end

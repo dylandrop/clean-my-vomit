@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'clean-my-vomit'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2012-06-19'
   s.summary     = "Clean"
   s.description = "Ruby gem that makes your long, deeply nested hashes easily displayable on command-line."
