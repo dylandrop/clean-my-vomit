@@ -20,6 +20,7 @@ module CleanMyVomit
         end
       end
     end
+    nil
   end
   
   private
